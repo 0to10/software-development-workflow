@@ -230,3 +230,23 @@ takes time, and increases the change of making mistakes.
 
 Tasks that exceed the desired 5-hour limit should be split up. Deliverables
 that need to be split up should be combined into a story.
+
+
+### Preparation
+
+Before commencing with any work, try to set an expectation of what you have to
+do to complete the work and meet the desired goal.
+
+From a development perspective, some of these questions might help:
+- Which areas of the software application do you expect to be working on?
+- Which other components / areas of the software application are related to the
+  area you are expecting to work on?
+- Are you expecting to primarily add, change or delete code?
+- What is the coverage level of the code you are expecting to work on?
+- Do you understand the purpose / business logic of the requested change?
+- Are there any other pending tasks that will make changes to the same parts of
+  the software application?
+- Do I know who to reach out to if I come across any blockers[^1]?
+
+[^1]: A blocker does not have to be technical, be sure to have people to
+reach out to with any type of blocker.
