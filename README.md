@@ -36,6 +36,9 @@ Assignment
 : The commitment to working on a task. Assignment of a task must be visible
   within the issue and/or project tracking system.
 
+Resolution
+: The course of action determined or decided on.
+
 Reviewer
 : The person reviewing the work of a software engineer.
 
@@ -221,7 +224,7 @@ As defined in the Definitions section (see above), it should be possible to
 complete work on a task within 5 hours. Most companies have working days of 8
 hours, which means that most tasks can be finished within a single working day.
 
-Software engineering sometimes requires making modifications to many different
+Software engineering frequently requires making modifications to many different
 parts of a software application. There may be people in your team that thrive
 on elaborate changes, but for others it might be daunting. If work is left in
 an unfinished state at the end of a working day, the software engineering that
