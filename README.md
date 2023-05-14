@@ -223,20 +223,20 @@ that need to be split up should be combined into a story.
 
 ## Identifying scope-creep
 
-It's common for things to be forgotten or overlooked during refinement of tasks
-for a sprint. Not responding on time to tasks that are not well-defined may
-result in a failure to deliver the work that committed to, because tasks take
-more time to complete of scope is silently increased. Mitigating this risk
-requires an understanding of what the work _should_ look like, and knowing what
-to do if the actual work deviates from what was expected.
+It's common for some details to be forgotten or overlooked during refinement of
+tasks for a sprint. Not responding on time to tasks that are not well-defined
+may  result in a failure to deliver the work that was committed to, because
+tasks take more time to complete or scope is silently increased. Mitigating
+this risk requires an understanding of what the work _should_ look like, and
+knowing what to do if the work deviates from what was expected.
 
-Each team should agree on a set of questions to determine the expectancy of the
+Each team _must_ agree on a set of questions to determine the expectancy of the
 work for each type of work.
 
 ### Examples of questions for software development
 
-Below are a number of questions that may be used to determine the expected work
-for software development tasks. These are examples only.
+Below are a number of questions that _may_ be used to determine the expected
+work for software development tasks:
 
 - Which areas of the software application do you expect to be working on?
 - Which other components / areas of the software application are related to the
