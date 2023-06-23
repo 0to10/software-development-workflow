@@ -13,10 +13,11 @@ This workflow is usable for bugs, tasks (chores) and subtasks of stories.
 
 ## Prerequisites
 
-It is recommended to only use this software development workflow when:
-- the team consists of 4 software engineers or more
-- the team has agreed on how to measure success
-- the team uses hours for estimations, not story points
+It is recommended to only use this software development workflow when the team:
+- consists of at least 4 software engineers
+- has agreed on how to measure success
+- uses hours for estimations (not story points)
+- agrees to commit to this workflow
 
 
 ## Understandings
@@ -85,8 +86,8 @@ the issue and/or project tracking system of your choice.
 
 ### To Do
 
-The "To Do" state indicates that a task is ready to be worked on. Any software
-engineer should be able to work on these tasks.
+> The "To-Do" state indicates that an issue is ready to be worked on. Any
+> software engineer should be able to work on these issues
 
 To ensure that any software engineer within the team is able to start work on a
 task, it is important to have a proper description of what the desired goal of
@@ -108,8 +109,8 @@ While a task is in the "To Do" state it is not assigned to anyone.
 
 ### In Progress
 
-The "In Progress" state indicates that a task is currently being worked on. All
-tasks in this state must be assigned to a software engineer.
+> The "In Progress" state indicates that an issue is currently being worked on.
+> Issues in this state must be assigned to a software engineer
 
 The software engineer should follow the development procedure that was agreed
 upon by the whole team. The development procedure should provide guidelines on
@@ -134,6 +135,10 @@ workflow and must be escalated to the other team members.
 
 ### Pending Review
 
+> The "Pending Review" state indicates that an issue is ready to be reviewed.
+> Any software engineer, except the person who did the initial work on the
+> issue, should be able to review it
+
 Similar to the "To Do" state, the "Pending Review" state indicates that a task
 is ready to be worked on. The initial work on the task is done, and before the
 task is moved to "Done" someone else should review the work to ensure that the
@@ -144,8 +149,8 @@ During this state the work is not assigned to anyone.
 
 ### In Review
 
-The "In Review" state indicates that a task is currently being reviewed. All
-tasks in this state must be assigned to a Reviewer.
+> The "In Review" state indicates that an issue is currently being reviewed.
+> Issues in this state must be assigned to a software engineer
 
 During the "In Review" state the Reviewer validates that the work meets all
 agreed upon criteria. The Reviewer must provide comments in the version control
@@ -162,6 +167,10 @@ to have this responsibility shared by people with the same role.
 
 
 ### Done
+
+> The "Done" state indicates that (engineering) work on an issue has been
+> completed, and that the work meets all agreed upon acceptance and coding
+> criteria
 
 When the Reviewer has ensured that the task has been completed in accordance
 with the criteria that were agreed upon, the task must be moved to "Done".
