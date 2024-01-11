@@ -11,6 +11,20 @@ determining what fits your organisation and engineering team is up to you.
 This workflow is usable for bugs, tasks (chores) and subtasks of stories.
 
 
+
+
+## Index
+
+
+### Systems
+
+The following links refer to pages with information on how various systems may be used in combination with this workflow,
+as well as best-practises and recommendations.
+
+- [Issue Tracking System](/pages/systems/issue-tracking-system.md)
+- [Version Control System](/pages/systems/version-control-system.md)
+
+
 ## Prerequisites
 
 It is recommended to only use this software development workflow when the team:
