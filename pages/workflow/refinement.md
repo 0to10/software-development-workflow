@@ -5,11 +5,11 @@ regular (scheduled) meetings to do Refinement of the backlog.
 
 During a Refinement session the _Product Owner_ and some or all of the rest of the team reviews the issues on the backlog
 to ensure the issues are still relevant, that they are prioritised and that the top of the backlog (at least enough issues
-to fill the next sprint1) is ready for development.
+to fill the next sprint[^1]) is ready for development.
 
 Some of the things that may happen during refinement of the backlog include:
 - removal of issues from the backlog that are no longer relevant
-- the relative priority between issues may change2
+- the relative priority between issues may change[^2]
 - issues may receive an (updated) estimate
 - issues may be split up because they are too big to handle in a sprint
 
@@ -42,3 +42,11 @@ expect input from.
 The output of the Refinement sessions should be a backlog of issues that is relevant, understandable for the stakeholders
 and estimated. The top of the backlog should at all times contain a list of issues that can be directly assigned to an
 upcoming sprint.
+
+
+
+
+[^1]: Reserve approx. 20% of the capacity of a sprint to resolve Defects.
+
+[^2]: The relative priorities between issues may be determined by a) dividing the (expected) business value / estimated
+time for development, b) highest technical debt value.
