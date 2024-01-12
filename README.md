@@ -41,13 +41,7 @@ as well as best-practises and recommendations.
 - [Coding Standards](/pages/coding-standards.md)
 
 
-## Prerequisites
 
-It is recommended to only use this software development workflow when the team:
-- consists of at least 4 software engineers
-- has agreed on how to measure success
-- uses hours for estimations (not story points)
-- agrees to commit to this workflow
 
 
 ## Understandings
