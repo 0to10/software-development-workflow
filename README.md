@@ -15,6 +15,7 @@ This workflow is usable for bugs, tasks (chores) and subtasks of stories.
 
 ## Index
 
+- [Definitions](/pages/definitions.md)
 
 ### Systems
 
@@ -47,19 +48,6 @@ take into account refinement of the work.
 A templated software development workflow may be a good start for your business
 but feel free to experiment and try variants or combinations of different ways
 of working.
-
-
-## Definitions
-
-| Term       | Definition                                                                                                                 |
-|:-----------|:---------------------------------------------------------------------------------------------------------------------------|
-| Assignment | The commitment to working on a task. Assignment of a task must be visible within the issue and/or project tracking system. |
-| Resolution | The course of action determined or decided on.                                                                             |
-| Reviewer   | The person reviewing the work of a software engineer.                                                                      |
-| State      | A state in which a task is either ready to be worked on or actively being worked on.                                       |
-| Story      | A single deliverable consisting of multiple units of work (subtasks).                                                      |
-| Task       | A single unit of work with a single deliverable estimated to no more than 5 hours of work.                                 |
-| Transition | Changing a task from one state to another.                                                                                 |
 
 
 ## Schematic overview
