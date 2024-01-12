@@ -27,6 +27,7 @@ yourself and building your own workflow or process.
 
 - [Refinement](/pages/workflow/refinement.md)
 - [Engineering](/pages/workflow/engineering.md)
+  - [Coding Standards](/pages/workflow/engineering/coding-standards.md)
   - [Estimations and velocity](/pages/workflow/engineering/estimations-and-velocity.md)
   - [Identifying scope-creep](/pages/workflow/engineering/identifying-scope-creep.md)
   - [Reviewing](/pages/workflow/engineering/reviewing.md)
@@ -41,8 +42,4 @@ as well as best-practises and recommendations.
 - [Issue Tracking System](/pages/systems/issue-tracking-system.md)
 - [Version Control System](/pages/systems/version-control-system.md)
 
-
-### Misc
-
-- [Coding Standards](/pages/coding-standards.md)
 
