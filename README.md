@@ -1,4 +1,4 @@
-# [DRAFT] Software Development Workflow
+# Software Development Workflow
 
 Whether you are part of a large organisation that employs thousands, or a small group within a startup, developing high
 quality software is always on our mind. With many different stakeholders in every project, the checklist to get software
