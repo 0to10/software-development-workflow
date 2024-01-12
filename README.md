@@ -14,10 +14,18 @@ and team composition studies, Domain Driven Design (DDD), and much more, but is 
 yourself and building your own workflow or process.
 
 
+## Getting Started
+
+> It is recommended to only use this workflow when the team...
+> - consists of at least 4 software engineers
+> - has agreed on how to measure success
+> - uses hours for estimations (not story points)
+> - agrees to commit to this workflow
 
 
-## Index
+### The Workflow
 
+- [Refinement](/pages/workflow/refinement.md)
 - [Definitions](/pages/definitions.md)
 
 ### Systems
