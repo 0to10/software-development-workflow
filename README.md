@@ -24,6 +24,10 @@ as well as best-practises and recommendations.
 - [Issue Tracking System](/pages/systems/issue-tracking-system.md)
 - [Version Control System](/pages/systems/version-control-system.md)
 
+### Misc
+
+- [Coding Standards](/pages/coding-standards.md)
+
 
 ## Prerequisites
 
