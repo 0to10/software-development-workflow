@@ -1,4 +1,4 @@
-# [DRAFT] Simple Software Development Workflow
+# [DRAFT] Software Development Workflow
 
 Whether you are part of a large organisation that employs thousands, or a small group within a startup, developing high
 quality software is always on our mind. With many different stakeholders in every project, the checklist to get software
@@ -43,16 +43,6 @@ as well as best-practises and recommendations.
 
 
 
-
-## Understandings
-
-This software development workflow is limited to the development of software,
-and does not cover anything related to deployment of the software, nor does it
-take into account refinement of the work.
-
-A templated software development workflow may be a good start for your business
-but feel free to experiment and try variants or combinations of different ways
-of working.
 
 
 ## Schematic overview
