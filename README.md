@@ -1,14 +1,17 @@
 # [DRAFT] Simple Software Development Workflow
 
-This repository describes a simple (agile) software development workflow with
-peer-reviewing to use within your organisation.
+Whether you are part of a large organisation that employs thousands, or a small group within a startup, developing high
+quality software is always on our mind. With many different stakeholders in every project, the checklist to get software
+to the end-user seems to be growing every other week, and so keeping focus is key.
 
-The success of any software development workflow requires that you have an
-understanding of what the desired outcome is for a task, and how to measure
-that the desired outcome was achieved. There are various ways to do this, and
-determining what fits your organisation and engineering team is up to you.
+Decades of experience in software development has taught us a great deal about building software. We've put all of our
+learnings into a simple process that helps to keep focus on the work, requires active collaboration between team members
+and improves quality of the delivered software.
 
-This workflow is usable for bugs, tasks (chores) and subtasks of stories.
+Many of the concepts and details of this workflow are based on other ideas, best-practises and studies, combined with
+hands-on experience. The workflow incorporates ideas from Extreme Programming, Intent-Based Leadership (IBL), personality
+and team composition studies, Domain Driven Design (DDD), and much more, but is in no way a replacement of studying those
+yourself and building your own workflow or process.
 
 
 
