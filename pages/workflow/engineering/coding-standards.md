@@ -23,7 +23,7 @@ read-to-use coding standards, that may be adopted - even if slightly edited - by
 
 - Class, method and function names must communicate what their intended purpose is
 - Classes must be in `PascalCase`, variables (and property names) must be in `camelCase`
-- Do not abbreviate variable names, except in the following cases:
+- Abbreviation of variable names is not allowed, except in the following cases:
   - Usage of abbreviations used in the domain model (such as "DNS") is permitted
   - Usage of `i` (index) and `l` (length) are permitted in for-loops
 
